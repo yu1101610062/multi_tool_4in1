@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mc_test",
+  "version": "${version}",
+  "name": "MC_test",
+  "description": "test",
+  "authors": [
+    "YYZY"
+  ],
+  "contact": {
+    "repo": "https://github.com/yuzha/MC_test"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/mc_test/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.yyzy.mc_test.client.MC_testClient"
+    ],
+    "main": [
+      "com.yyzy.mc_test.MC_test"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
