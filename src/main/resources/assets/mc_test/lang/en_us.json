@@ -1,5 +1,10 @@
 {
-  "item.mc_test.citrine": "Citrine",
-  "item.mc_test.raw_citrine": "Raw Citrine",
-  "itemGroup.mc_test.citrine": "Mod Citrine Group"
+  "item.mc_test.diamond_universal_tool": "Diamond Universal Tool",
+  "item.mc_test.wooden_universal_tool": "Wooden Universal Tool",
+  "item.mc_test.stone_universal_tool": "Stone Universal Tool",
+  "item.mc_test.iron_universal_tool": "Iron Universal Tool",
+  "item.mc_test.golden_universal_tool": "Golden Universal Tool",
+  "item.mc_test.netherite_universal_tool": "Netherite Universal Tool",
+  "item.mc_test.universal_tool": "In pursuit of the ultimate practicality, the attack performance was abandoned and the universal tool that combines the pickaxe, axe, shovel and hoe into one has a durability that is four times the original.",
+  "itemGroup.mc_test.tools": "Universal Tools"
 }

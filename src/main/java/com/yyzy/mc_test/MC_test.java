@@ -13,7 +13,6 @@ public class MC_test implements ModInitializer {
 
     @Override
     public void onInitialize() {
-
         LOGGER.info("Hello MC!");
         ModItemGroups.registerModItemGroups();
         ModItems.registerModItems();
