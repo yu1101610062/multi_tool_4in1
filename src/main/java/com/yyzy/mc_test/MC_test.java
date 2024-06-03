@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class MC_test implements ModInitializer {
-    public static final String MOD_ID = "mc_test";
+    public static final String MOD_ID = "multi_tool_4in1";
 
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
@@ -16,6 +16,9 @@ public class MC_test implements ModInitializer {
         LOGGER.info("Hello MC!");
         ModItemGroups.registerModItemGroups();
         ModItems.registerModItems();
-
+        //锄头
+        //TODO 暂时只能使用附魔书附魔
+        //合成表
+        //攻击
     }
 }

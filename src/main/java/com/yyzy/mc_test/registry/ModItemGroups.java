@@ -13,7 +13,7 @@ import net.minecraft.util.Identifier;
 public class ModItemGroups {
     private static final ItemGroup MOD_CITRINE_GROUP = FabricItemGroup.builder()
             .icon(() -> new ItemStack(Items.STONE_HOE))
-            .displayName(Text.translatable("itemGroup.mc_test.tools"))
+            .displayName(Text.translatable("itemGroup.multi_tool_4in1.tools"))
             .entries(((displayContext, entries) -> {
                 entries.add(ModItems.DIAMOND_UNIVERSAL_TOOL);
                 entries.add(ModItems.GOLDEN_UNIVERSAL_TOOL);

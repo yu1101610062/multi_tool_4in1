@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_shovel"
+    },{
+      "item": "minecraft:wooden_pickaxe"
+    },{
+      "item": "minecraft:wooden_axe"
+    },{
+      "item": "minecraft:wooden_hoe"
+    }
+  ],
+  "result": {
+    "item": "multi_tool_4in1:wooden_universal_tool",
+    "id": "multi_tool_4in1:wooden_universal_tool"
+  }
+}

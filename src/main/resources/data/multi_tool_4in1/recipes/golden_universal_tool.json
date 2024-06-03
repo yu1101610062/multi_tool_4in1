@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_shovel"
+    },{
+      "item": "minecraft:golden_pickaxe"
+    },{
+      "item": "minecraft:golden_axe"
+    },{
+      "item": "minecraft:golden_hoe"
+    }
+  ],
+  "result": {
+    "item": "multi_tool_4in1:golden_universal_tool",
+    "id": "multi_tool_4in1:golden_universal_tool"
+  }
+}

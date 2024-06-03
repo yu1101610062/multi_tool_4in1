@@ -1,0 +1,10 @@
+{
+  "item.multi_tool_4in1.diamond_universal_tool": "Diamond Universal Tool",
+  "item.multi_tool_4in1.wooden_universal_tool": "Wooden Universal Tool",
+  "item.multi_tool_4in1.stone_universal_tool": "Stone Universal Tool",
+  "item.multi_tool_4in1.iron_universal_tool": "Iron Universal Tool",
+  "item.multi_tool_4in1.golden_universal_tool": "Golden Universal Tool",
+  "item.multi_tool_4in1.netherite_universal_tool": "Netherite Universal Tool",
+  "item.multi_tool_4in1.universal_tool": "Pickaxe, axe, shovel, hoe four-in-one universal tool, four times the durability, four times the enjoyment",
+  "itemGroup.multi_tool_4in1.tools": "Universal Tools"
+}

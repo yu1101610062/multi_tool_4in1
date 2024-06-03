@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "mc_test",
+  "id": "multi_tool_4in1",
   "version": "${version}",
-  "name": "MC_test",
-  "description": "test",
+  "name": "万能工具",
+  "description": "镐、斧、锹、锄四合一工具",
   "authors": [
     "YYZY"
   ],
@@ -11,7 +11,7 @@
     "repo": "https://github.com/yuzha/MC_test"
   },
   "license": "All-Rights-Reserved",
-  "icon": "assets/mc_test/icon.png",
+  "icon": "assets/multi_tool_4in1/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
