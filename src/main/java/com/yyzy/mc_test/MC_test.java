@@ -16,9 +16,6 @@ public class MC_test implements ModInitializer {
         LOGGER.info("Hello MC!");
         ModItemGroups.registerModItemGroups();
         ModItems.registerModItems();
-        //锄头
         //TODO 暂时只能使用附魔书附魔
-        //合成表
-        //攻击
     }
 }
